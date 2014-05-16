@@ -1,5 +1,4 @@
 Name: Lindan Tian
-USC ID: 3086874846
 Email:lindanti@usc.edu
 1 run the created.sql in sql developer.
 2 compile the HW2.java in cmd using javac -classpath  .;* HW2.java (windows 7).
